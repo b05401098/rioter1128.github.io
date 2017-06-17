@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+}
+
+a {
+    background-color: #28a9ff;
+    box-shadow: 0 0 6px 1px black;
+    box-shadow: 1px 2px black;
+    padding: 5px;
+    margin-top: 40px;
+}
+
+div.btn {
+    height: 30px;
+}
+
+div.ddd {
+    display: -webkit-inline-box;
+}
